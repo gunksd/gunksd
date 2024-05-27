@@ -33,7 +33,6 @@
    ![亮色](https://raw.githubusercontent.com/gunksd/gunksd/output/github-contribution-grid-snake.svg)
 
   </picture>
-</div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunksd&layout=compact&theme=tokyonight)
 
