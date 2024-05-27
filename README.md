@@ -27,12 +27,11 @@
 ![Static Badge](https://img.shields.io/badge/Solidity-web3-blue)  ![Static Badge](https://img.shields.io/badge/ETH-yellow)  ![Static Badge](https://img.shields.io/badge/BTC-red)
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    
-   ![暗色](https://raw.githubusercontent.com/gunksd/gunksd/output/github-contribution-grid-snake-dark.svg)
-   ![亮色](https://raw.githubusercontent.com/gunksd/gunksd/output/github-contribution-grid-snake.svg)
-
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunksd/gunksd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gunksd/gunksd/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/gunksd/gunksd/output/github-contribution-grid-snake.svg">
+</picture>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunksd&layout=compact&theme=tokyonight)
 
