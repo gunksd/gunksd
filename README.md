@@ -13,14 +13,11 @@
   </div>
 
   <!--  pictures  -->
-  <picture>
+<picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ethereum.org/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhero.94a1ecc4.png&w=1920&q=75" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
-
-  <!-- for beauty 留个空行好看点 -->
-  <div>&nbsp;</div>
+    <source media="(prefers-color-scheme: light)" srcset="https://bitcoin.org/img/home/bitcoin-img.svg?1716491272" height="225px" />
+    <img src="https://github.com/gunksd/img/blob/main/20240527200001.png?raw=true" alt="Default Image" />
+</picture>
 
   <!-- profile logo 个人资料徽标 -->
   <div>
@@ -31,14 +28,16 @@
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+    
+   ![暗色](https://raw.githubusercontent.com/gunksd/gunksd/output/github-contribution-grid-snake-dark.svg)
+   ![亮色](https://raw.githubusercontent.com/gunksd/gunksd/output/github-contribution-grid-snake.svg)
 
+  </picture>
 </div>
 
-#  Hello
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunksd&layout=compact&theme=tokyonight)
+
+# :chicken: Hello
 
 <table>
   
@@ -51,7 +50,7 @@
 <p>&emsp;&emsp;嗨，你好，我是Awan。热爱编程、音乐、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的无限可能改变这个世界。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;<strong>We are making the world a better place by harnessing the infinite possibilities of code to drive change.</strong></p>
 
 </td></tr>
 
