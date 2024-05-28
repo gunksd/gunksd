@@ -43,8 +43,6 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
-
 <p>&emsp;&emsp;嗨，你好，我是Awan。热爱编程、音乐、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的无限可能改变这个世界。</p>
@@ -55,8 +53,6 @@
 <tr><td>
 
 ### 🏢 Study Experience
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 
 - [江苏大学](https://www.ujs.edu.cn/) &emsp; 📌 2022-09-04 —— Now
   
