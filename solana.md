@@ -31,5 +31,4 @@
 <code>&lt;KEYPAIR&gt;</code>  是质押授权的密钥对, <code>&lt;NEW_STAKE_ACCOUNT_KEYPAIR&gt;</code> 是新账户的密钥对,  <code>&lt;AMOUNT&gt;</code> 是要转移到新账户的代币数量。</p><p>要将质押账户拆分为衍生账户地址, 请使用 <code>--seed</code>
 选项。 有关详细信息，请参阅
 <a href="#advanced-derive-stake-account-addresses">派生质押账户地址</a>。</p></div></article>
-</body>
-</html>
+
