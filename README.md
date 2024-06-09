@@ -1,16 +1,17 @@
 <div align="center">
   <a href="https://github.com/gunksd/github-readme-stats">
-    
-  ![gunksd's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunksd&show_icons=true&theme=transparent)
 </div>
 </a>
 <div align="center">
 
   <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%22Let's%2C%20Change this World!%22;Don't talk , Show me code!&center=true&size=27" />
-    </a>
-  </div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&duration=4000&color=F7BAD5&background=404AFF00&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=%22+To+thine+own+self+be+true. +%22;%E6%84%BF%E4%BD%A0%E4%B8%8D%E8%88%8D%E6%98%BC%E5%A4%9C%EF%BC%8C%E5%BF%A0%E4%BA%8E%E8%87%AA%E5%B7%B1%E3%80%82" alt="Typing SVG" />
+  </a>
+</div>
+
+
 
   <!--  pictures  -->
 <picture>
@@ -20,11 +21,20 @@
 </picture>
 
   <!-- profile logo 个人资料徽标 -->
-  <div>
-    <a href="https://x.com/wnyn12075574"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-  </div>
-  
-![Static Badge](https://img.shields.io/badge/Solidity-web3-blue)  ![Static Badge](https://img.shields.io/badge/ETH-yellow)  ![Static Badge](https://img.shields.io/badge/BTC-red)
+ <div align="center">
+  <a href="https://x.com/Halen5676115589">
+    <img src="https://img.shields.io/badge/Twitter-推特-blue" />
+  </a>
+  <a href="https://github.com/gunksd/img/blob/main/fad525686942ac43460eb9985482bbeb.jpg?raw=true">
+    <img src="https://img.shields.io/badge/WeChat-微信-07c160" />
+  </a>
+</div>
+
+ <div align="center" >
+  <img src="https://img.shields.io/badge/Solidity-web3-blue" alt="Solidity" />
+  <img src="https://img.shields.io/badge/ETH-yellow" alt="ETH" />
+  <img src="https://img.shields.io/badge/BTC-red" alt="BTC" style="margin-right: 0;/>
+</div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
@@ -33,7 +43,9 @@
   <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/gunksd/gunksd/output/github-contribution-grid-snake.svg">
 </picture>
 
+![gunksd's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunksd&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunksd&layout=compact&theme=tokyonight)
+
 
 # :chicken: Hello
 
