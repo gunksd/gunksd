@@ -55,11 +55,22 @@
 
 ### 🤺 About Me
 
-<p>&emsp;&emsp;嗨，你好，我是Awan。热爱编程、音乐、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的无限可能改变这个世界。</p>
-<p>&emsp;&emsp;<strong>We are making the world a better place by harnessing the infinite possibilities of code to drive change.</strong></p>
+# Hello, I'm [Awan]! 👋
 
+I'm a IT worker from China with a keen interest in computer science, literature, and creative writing. I enjoy exploring the intersection of technology and storytelling to develop innovative solutions and compelling content.
+
+## My Expertise
+- **Programming Languages:** Python, Solidity, Verilog HDL
+- **Blockchain Development:** SUI, Move, Ethereum
+- **AI and Machine Learning:** Deep Learning, Neural Networks
+- **Writing:** Articles for WeChat, Zhihu
+
+## What I'm Working On
+- Developing an animal recognition generative system
+- Building a student employment recommendation system using deep learning
+- Crafting innovative auction smart contracts on Ethereum
+
+## *We are making the world a better place by harnessing the infinite possibilities of code to drive change.* ##
 </td></tr>
 
 <tr><td>
