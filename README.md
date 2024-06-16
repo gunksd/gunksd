@@ -85,6 +85,6 @@ I'm a IT worker from China with a keen interest in computer science, literature,
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gunksd&theme=dark_lover)](https://github.com/gunksd/github-profile-trophy)
 
-![Metrics](https://metrics.lecoq.io/gunksd?template=classic&lines=1&stars=1&habits=1&followup=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai)
+
 
 [![gunksd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunksd&theme=rogue)](https://github.com/gunksd/github-readme-activity-graph)
