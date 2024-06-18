@@ -11,7 +11,6 @@
   </a>
 </div>
 
-
   <!--  pictures  -->
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ethereum.org/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhero.94a1ecc4.png&w=1920&q=75" />
