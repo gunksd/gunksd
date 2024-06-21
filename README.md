@@ -84,6 +84,4 @@ I'm a IT worker from China with a keen interest in computer science, literature,
 
 ![Metrics](/github-metrics.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gunksd&theme=dark_lover)](https://github.com/gunksd/github-profile-trophy)
-
 [![gunksd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunksd&theme=rogue)](https://github.com/gunksd/github-readme-activity-graph)
