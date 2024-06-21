@@ -43,13 +43,6 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_anilist: yes
-          plugin_anilist_limit: 8
-          plugin_anilist_limit_characters: 22
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites
-          plugin_anilist_shuffle: yes
-          plugin_anilist_user: .user.login
           plugin_calendar: yes
           plugin_calendar_limit: 1
           plugin_discussions: yes
@@ -98,9 +91,8 @@ jobs:
           plugin_reactions_limit_issues: 100
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: graph
+          plugin_stargazers_charts_type: chartist
           plugin_stargazers_days: 14
-          plugin_stargazers_worldmap: yes
           plugin_stargazers_worldmap_sample: 5
           plugin_starlists: yes
           plugin_starlists_languages: yes
