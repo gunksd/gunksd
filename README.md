@@ -82,7 +82,7 @@ I'm a IT worker from China with a keen interest in computer science, literature,
   - 学院：计算机科学与通信工程学院
   - 专业：智能科学与技术
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400" />
+![Metrics](/github-metrics.svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gunksd&theme=dark_lover)](https://github.com/gunksd/github-profile-trophy)
 
