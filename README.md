@@ -76,11 +76,11 @@ I'm a IT worker from China with a keen interest in computer science, literature,
 
 ### 🏢 Study Experience
 
-- [江苏大学](https://www.ujs.edu.cn/) &emsp; 📌 2022-09-04 —— Now
+- [UJS](https://www.ujs.edu.cn/) &emsp; 📌 2022-09-04 —— Now
   
-  - 年龄：20
-  - 学院：计算机科学与通信工程学院
-  - 专业：智能科学与技术
+  - Age：20
+  - Collenge：School of Computer Science and Communications Engineering
+  - Major：Intelligent Science and Technology
 
 ![Metrics](/github-metrics.svg)
 
