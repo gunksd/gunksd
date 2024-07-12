@@ -1,8 +1,15 @@
 <div align="center">
-  <!-- dynamic typing effect 动态打字效果 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&duration=4000&color=F7BAD5&background=404AFF00&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=%22+To+thine+own+self+be+true. +%22;%E6%84%BF%E4%BD%A0%E4%B8%8D%E8%88%8D%E6%98%BC%E5%A4%9C%EF%BC%8C%E5%BF%A0%E4%BA%8E%E8%87%AA%E5%B7%B1%E3%80%82" alt="Typing SVG" />
+  <a href="https://github.com/gunksd/github-readme-stats">
 </div>
+</a>
+<div align="center">
 
+  <!-- dynamic typing effect 动态打字效果 -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&duration=4000&color=F7BAD5&background=404AFF00&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=100&lines=%22+To+thine+own+self+be+true. +%22;%E6%84%BF%E4%BD%A0%E4%B8%8D%E8%88%8D%E6%98%BC%E5%A4%9C%EF%BC%8C%E5%BF%A0%E4%BA%8E%E8%87%AA%E5%B7%B1%E3%80%82" alt="Typing SVG" />
+  </a>
+</div>
 
   <!--  pictures  -->
 <picture>
