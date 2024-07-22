@@ -51,10 +51,13 @@
 I'm a IT worker from China with a keen interest in computer science, literature, and creative writing. I enjoy exploring the intersection of technology and storytelling to develop innovative solutions and compelling content.
 
 ## My Expertise
-- **Programming Languages:** Python, Solidity, Verilog HDL
-- **Blockchain Development:** SUI, Move, Ethereum
+- **Programming Languages:** Python, Solidity, Vue
+- **Blockchain Development:** SUI, Move, Ethereum,Rooch, Axelar
 - **AI and Machine Learning:** Deep Learning, Neural Networks
 - **Writing:** Articles for WeChat, Zhihu
+- Some of my articles:
+   - [x] [Analysis of Full-Chain Track Projects and the New Leader Axelar](https://blushing-ptarmigan-80b.notion.site/Analysis-of-Full-Chain-Track-Projects-and-the-New-Leader-Axelar-740845e7864d4928b5a834594cc4ab14?pvs=4)
+   - [x] [Comparison of the pros and cons of Bitcoin Layer2 ecological projects and analysis of Rooch's new ecology](https://blushing-ptarmigan-80b.notion.site/Layer2-Rooch-6647d9f7fd9441239774296f27edf85f?pvs=4)
 
 ## What I'm Working On
 - Developing an animal recognition generative system
