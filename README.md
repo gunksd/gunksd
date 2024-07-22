@@ -60,9 +60,9 @@ I'm a IT worker from China with a keen interest in computer science, literature,
    - [x] [Comparison of the pros and cons of Bitcoin Layer2 ecological projects and analysis of Rooch's new ecology](https://blushing-ptarmigan-80b.notion.site/Layer2-Rooch-6647d9f7fd9441239774296f27edf85f?pvs=4)
 
 ## What I'm Working On
-- Developing an animal recognition generative system
-- Building a student employment recommendation system using deep learning
-- Crafting innovative auction smart contracts on Ethereum
+- Building a student employment recommendation system using deep learning.
+- At the same time, a project to detect straw burning with drones is underway.
+- Crafting innovative auction smart contracts on Ethereum for one Hackathon.
 
 ## *We are making the world a better place by harnessing the infinite possibilities of code to drive change.* ##
 </td></tr>
@@ -73,7 +73,7 @@ I'm a IT worker from China with a keen interest in computer science, literature,
 
 - [UJS](https://www.ujs.edu.cn/) &emsp; 📌 2022-09-04 —— Now
   
-  - Age：20
+  - Age：secret
   - Collenge：School of Computer Science and Communications Engineering
   - Major：Intelligent Science and Technology
 
