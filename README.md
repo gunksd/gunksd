@@ -58,6 +58,7 @@ I'm a IT worker from China with a keen interest in computer science, literature,
 - Some of my articles:
    - [x] [Analysis of Full-Chain Track Projects and the New Leader Axelar](https://blushing-ptarmigan-80b.notion.site/Analysis-of-Full-Chain-Track-Projects-and-the-New-Leader-Axelar-740845e7864d4928b5a834594cc4ab14?pvs=4)
    - [x] [Comparison of the pros and cons of Bitcoin Layer2 ecological projects and analysis of Rooch's new ecology](https://blushing-ptarmigan-80b.notion.site/Layer2-Rooch-6647d9f7fd9441239774296f27edf85f?pvs=4)
+   - [x] [A rising star in the cross-chain track: Polyhedra Network](https://blushing-ptarmigan-80b.notion.site/Polyhedra-Network-96726a8cdc3540dba9f9077819ffd824?pvs=4)
 
 ## What I'm Working On
 - Building a student employment recommendation system using deep learning.
