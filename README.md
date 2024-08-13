@@ -74,7 +74,7 @@ I'm a IT worker from China with a keen interest in computer science, literature,
 
 - [UJS](https://www.ujs.edu.cn/) &emsp; 📌 2022-09-04 —— Now
   
-  - Age：secret
+  - Age：20
   - Collenge：School of Computer Science and Communications Engineering
   - Major：Intelligent Science and Technology
 
