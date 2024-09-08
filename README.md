@@ -83,6 +83,8 @@ I'm a IT worker from China with a keen interest in computer science, literature,
 ### :computer: My Personal Website：
    [【https://gunksd.github.io】](https://gunksd.github.io/) :
    ![website](https://raw.githubusercontent.com/gunksd/img/main/website.png)
+### 🔢 这里已经被光临过多少次 | How many times have viewer been here
+![Count](https://count.getloli.com/get/@gunksd?theme=gelbooru)
 
 ![Metrics](/github-metrics.svg)
 [![gunksd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunksd&theme=rogue)](https://github.com/gunksd/github-readme-activity-graph)
