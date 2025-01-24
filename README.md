@@ -65,8 +65,6 @@ I'm a IT worker from China with a keen interest in computer science, literature,
 
 ## What I'm Working On
 - Building a student employment recommendation system using deep learning.
-- At the same time, a project to detect straw burning with drones is underway.
-- Crafting innovative auction smart contracts on Ethereum for one Hackathon.
 
 ## *We are making the world a better place by harnessing the infinite possibilities of code to drive change.* ##
 </td></tr>
