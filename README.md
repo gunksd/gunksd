@@ -83,5 +83,8 @@ I'm a IT worker from China with a keen interest in computer science, literature,
 ### 🔢 这里已经被光临过多少次 | How many times have viewer been here
 ![Count](https://count.getloli.com/get/@gunksd?theme=gelbooru)
 
+### 我的NFT:
+![NFT Badge](https://github-nft-fawn.vercel.app/api/nft-badge?address=0x138843062b5ca5a88a9b32680bd944e143183c6e)
+
 ![Metrics](/github-metrics.svg)
 [![gunksd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunksd&theme=rogue)](https://github.com/gunksd/github-readme-activity-graph)
