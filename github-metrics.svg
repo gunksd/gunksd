@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2885" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2902" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -196,7 +196,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    6.80m added, 3.97m removed
+                                    8.43m added, 3.05m removed
                                 </div>
                             </section>
                             <section>
@@ -463,14 +463,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="199.80271783473023" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="199.80271783473023" y="0" width="119.94285241664518" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="319.7455702513754" y="0" width="32.43135333525197" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="352.17692358662737" y="0" width="31.803274901763768" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="383.9801984883911" y="0" width="23.60522030031485" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="407.58541878870597" y="0" width="22.76529558431155" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="430.3507143730175" y="0" width="18.852052244746556" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="449.2027666177641" y="0" width="10.79723338223588" height="8" fill="#4a137a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="199.80303791818199" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="199.80303791818199" y="0" width="119.94230764594953" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="319.7453455641315" y="0" width="32.431405290198484" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="352.17675085433" y="0" width="31.803325850530218" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="383.9800767048602" y="0" width="23.605258115818437" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="407.58533482067867" y="0" width="22.765332054257854" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="430.3506668749365" y="0" width="18.852082445686868" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="449.20274932062335" y="0" width="10.79725067937662" height="8" fill="#4a137a"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2086,23 +2086,23 @@
                                                 <path fill-rule="evenodd" d="M4 5.75C4 4.784 4.784 4 5.75 4h4.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0110.25 12h-4.5A1.75 1.75 0 014 10.25v-4.5zm1.75-.25a.25.25 0 00-.25.25v4.5c0 .138.112.25.25.25h4.5a.25.25 0 00.25-.25v-4.5a.25.25 0 00-.25-.25h-4.5z"/>
                                             </svg>
                                             <div class="name">
-                                                <span>TheAlgorithms/Python</span>
+                                                <span>AmazingAng/WTF-Solidity</span>
                                                 <span></span>
                                             </div>
                                         </div>
-                                        <div class="field description">All Algorithms implemented in Python</div>
+                                        <div class="field description">WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy</div>
                                         <div class="field infos">
                                             <div class="language">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#aa6746" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Python
+                                                Solidity
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
                                                     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                                 </svg>
-                                                199k
+                                                12.4k
                                             </div>
                                             <div>
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="11" height="11">
@@ -2724,7 +2724,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Apr 2025, 13:14:54 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Apr 2025, 14:20:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
