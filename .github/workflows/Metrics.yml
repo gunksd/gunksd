@@ -1,49 +1,24 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  # Schedule updates (every hour)
+  # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
-  # Allow manual triggers and trigger on changes to main branches
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push:
-    branches:
-      - "master"
-      - "main"
-
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      # Step 1: Update package manager and fix potential issues
-      - name: Update package manager
-        run: |
-          sudo apt-get update
-          sudo apt-get upgrade -y
-
-      # Step 2: Remove conflicting packages
-      - name: Remove conflicting packages
-        run: |
-          sudo apt-get remove -y containerd containerd.io || true
-          sudo apt-get autoremove -y
-
-      # Step 3: Install necessary dependencies
-      - name: Install dependencies
-        run: |
-          sudo apt-get install -y --allow-downgrades --allow-change-held-packages docker.io jq
-
-      # Step 4: Checkout repository (required for some plugins)
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      # Step 5: Generate Metrics
-      - name: Generate Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - public_repo
+          #  - read:project
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -55,29 +30,18 @@ jobs:
           user: gunksd
           template: classic
           base: header, activity, community, repositories, metadata
-          base_hireable: yes
-          base_indepth: yes
-          config_octicon: yes
           config_timezone: Asia/Shanghai
-          config_twemoji: yes
           plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: no
-          plugin_achievements_threshold: 1
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: X
           plugin_calendar: yes
           plugin_calendar_limit: 1
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
-          plugin_followup: yes
-          plugin_followup_archived: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: repositories
+          plugin_code: yes
+          plugin_code_days: 3
+          plugin_code_lines: 12
+          plugin_code_load: 400
+          plugin_code_visibility: public
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
@@ -99,38 +63,33 @@ jobs:
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 1%
+          plugin_languages_threshold: 0%
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers, following
-          plugin_poopmap: yes
-          plugin_poopmap_days: 7
-          plugin_reactions: yes
-          plugin_reactions_display: absolute
-          plugin_reactions_limit: 200
-          plugin_reactions_limit_discussions: 100
-          plugin_reactions_limit_discussions_comments: 100
-          plugin_reactions_limit_issues: 100
-          plugin_stargazers: yes
-          plugin_stargazers_charts: yes
-          plugin_stargazers_charts_type: classic
-          plugin_stargazers_days: 14
-          plugin_stargazers_worldmap_sample: 5
-          plugin_starlists: yes
-          plugin_starlists_languages: yes
-          plugin_starlists_limit: 2
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_shuffle_repositories: yes
-          plugin_stars: yes
-          plugin_stars_limit: 4
-          plugin_topics: yes
-          plugin_topics_limit: 15
-          plugin_topics_mode: icons
-          plugin_topics_sort: stars
-          repositories_forks: yes
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          plugin_screenshot: yes
+          plugin_screenshot_background: yes
+          plugin_screenshot_mode: image
+          plugin_screenshot_selector: body
+          plugin_screenshot_title: Screenshot
+          plugin_screenshot_url: https://www.awansmith.xyz/
+          plugin_screenshot_viewport: {
+  "width": 1280,
+  "height": 1280
+}
+
+          plugin_steam: yes
+          plugin_steam_achievements_limit: 2
+          plugin_steam_games_limit: 1
+          plugin_steam_playtime_threshold: 2
+          plugin_steam_recent_games_limit: 1
+          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_user: awansmith.eth
+          plugin_support: yes
+          plugin_tweets: yes
+          plugin_tweets_attachments: yes
+          plugin_tweets_limit: 2
+          plugin_tweets_user: @wnyn12075574
