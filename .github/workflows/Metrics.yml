@@ -75,7 +75,7 @@ jobs:
           plugin_screenshot_mode: image
           plugin_screenshot_selector: body
           plugin_screenshot_title: Screenshot
-          plugin_screenshot_url: https://www.awansmith.xyz/
+          plugin_screenshot_url: https://www.awansmith.xyz
           plugin_screenshot_viewport: {
   "width": 1280,
   "height": 1280
@@ -92,4 +92,4 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 2
-          plugin_tweets_user: @wnyn12075574
+          plugin_tweets_user: wnyn12075574
