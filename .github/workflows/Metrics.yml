@@ -16,11 +16,18 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Install necessary dependencies
+      # Update package manager and fix potential conflicts
+      - name: Update package manager
+        run: sudo apt-get update && sudo apt-get upgrade -y
+
+      # Remove conflicting packages if necessary
+      - name: Remove conflicting packages
+        run: sudo apt-get remove -y containerd || true
+
+      # Install necessary dependencies with conflict resolution
       - name: Install dependencies
         run: |
-          sudo apt-get update
-          sudo apt-get install -y docker.io jq
+          sudo apt-get install -y --allow-downgrades --allow-change-held-packages docker.io jq
 
       # Checkout repository (required for some plugins)
       - name: Checkout repository
