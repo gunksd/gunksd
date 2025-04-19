@@ -16,24 +16,28 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Update package manager and fix potential conflicts
+      # Step 1: Update package manager and fix potential issues
       - name: Update package manager
-        run: sudo apt-get update && sudo apt-get upgrade -y
+        run: |
+          sudo apt-get update
+          sudo apt-get upgrade -y
 
-      # Remove conflicting packages if necessary
+      # Step 2: Remove conflicting packages
       - name: Remove conflicting packages
-        run: sudo apt-get remove -y containerd || true
+        run: |
+          sudo apt-get remove -y containerd containerd.io || true
+          sudo apt-get autoremove -y
 
-      # Install necessary dependencies with conflict resolution
+      # Step 3: Install necessary dependencies
       - name: Install dependencies
         run: |
           sudo apt-get install -y --allow-downgrades --allow-change-held-packages docker.io jq
 
-      # Checkout repository (required for some plugins)
+      # Step 4: Checkout repository (required for some plugins)
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Run Metrics
+      # Step 5: Generate Metrics
       - name: Generate Metrics
         uses: lowlighter/metrics@latest
         with:
