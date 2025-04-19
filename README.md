@@ -86,5 +86,7 @@ I'm a IT worker from China with a keen interest in computer science, literature,
 ### 我的NFT:
 ![NFT Badge](https://github-nft-fawn.vercel.app/api/nft-badge?address=0x138843062b5ca5a88a9b32680bd944e143183c6e)
 
-![Metrics](/github-metrics.svg)
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 [![gunksd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunksd&theme=rogue)](https://github.com/gunksd/github-readme-activity-graph)
