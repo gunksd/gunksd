@@ -17,8 +17,6 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
-          #  - public_repo
-          #  - read:project
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -31,11 +29,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 3
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
           plugin_calendar: yes
           plugin_calendar_limit: 1
           plugin_code: yes
@@ -65,12 +58,6 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          plugin_lines_sections: base
-          plugin_projects: yes
-          plugin_projects_limit: 4
           plugin_screenshot: yes
           plugin_screenshot_background: yes
           plugin_screenshot_mode: image
@@ -85,4 +72,4 @@ jobs:
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 1
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: mayun_mahuateng_
+          plugin_steam_user: 76561199549218084
