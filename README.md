@@ -94,10 +94,11 @@ I'm a IT worker from China with a keen interest in computer science, literature,
 
 ## Star History
 
-<a href="https://www.star-history.com/#gunksd/gunksd&Date">
+<a href="https://www.star-history.com/#gunksd/gunksd&Timeline">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=gunksd/gunksd&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=gunksd/gunksd&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=gunksd/gunksd&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=gunksd/gunksd&type=Timeline&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=gunksd/gunksd&type=Timeline" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=gunksd/gunksd&type=Timeline" />
  </picture>
 </a>
+
