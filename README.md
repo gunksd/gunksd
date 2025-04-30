@@ -90,4 +90,8 @@ I'm a IT worker from China with a keen interest in computer science, literature,
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
-[![gunksd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunksd&theme=rogue)](https://github.com/gunksd/github-readme-activity-graph)
+[![gunksd's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gunksd&theme=rogue)](https://github.com/gunksd/github-readme-activity-graph)</br>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=gunksd/gunksd&type=Date)](https://www.star-history.com/#gunksd/gunksd&Date)
