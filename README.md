@@ -13,14 +13,14 @@
 
   <!-- profile logo 个人资料徽标 -->
  <div align="center">
-  <a href="https://x.com/Halen5676115589">
+  <a href="https://x.com/wnyn12075574">
     <img src="https://img.shields.io/badge/Twitter-推特-blue" />
   </a>
   <a href="https://github.com/gunksd/img/blob/main/wechat.jpg?raw=true">
     <img src="https://img.shields.io/badge/WeChat-微信-07c160" />
   </a>
-  <a href="https://gunksd.github.io">
-    <img src="https://img.shields.io/badge/Personal_Website-Awan-orange" />
+  <a href="https://www.awansmith.cn/">
+    <img src="https://img.shields.io/badge/Personal_blockchain_Website-Awan-orange" />
   </a>
 </div>
 
