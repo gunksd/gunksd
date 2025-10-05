@@ -6,7 +6,7 @@
 
   <!--  pictures  -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ethereum.org/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhero.94a1ecc4.png&w=1920&q=75" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunksd/img/refs/heads/main/eth.jpg" />
     <source media="(prefers-color-scheme: light)" srcset="https://bitcoin.org/img/home/bitcoin-img.svg?1716491272" height="225px" />
     <img src="https://github.com/gunksd/img/blob/main/profile(default).png?raw=true" alt="Default Image" />
 </picture>
