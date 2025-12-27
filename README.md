@@ -64,7 +64,7 @@ I'm a IT worker from China with a keen interest in computer science, literature,
    - [x] [A rising star in the cross-chain track: Polyhedra Network](https://blushing-ptarmigan-80b.notion.site/Polyhedra-Network-96726a8cdc3540dba9f9077819ffd824?pvs=4)
 
 ## What I'm Working On
-- [x] Building a student employment recommendation system using deep learning.
+- [x] Establish a machine learning-based quantitative trading system.
 - [ ] Looking for working
 ## *We are making the world a better place by harnessing the infinite possibilities of code to drive change.* ##
 </td></tr>
