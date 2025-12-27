@@ -37,8 +37,8 @@
   <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/gunksd/gunksd/output/github-contribution-grid-snake.svg">
 </picture>
 
-![gunksd's GitHub stats](https://gunksd-github-readme-stats.vercel.app/api?username=gunksd&show_icons=true&theme=tokyonight&bg_color=00000000&&locales=zh-tw)
-![Top Langs](https://gunksd-github-readme-stats.vercel.app/api/top-langs/?username=gunksd&stats_format=bytes)
+![gunksd's GitHub stats](https://gunksd-github-readme-stats.vercel.app/api?username=gunksd&show_icons=true&theme=tokyonight&locale=zh-tw)
+![Top Langs](https://gunksd-github-readme-stats.vercel.app/api/top-langs/?username=gunksd&stats_format=bytes&bg_color=00000000)
 
 
 # :chicken: Hello
