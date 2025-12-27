@@ -38,7 +38,7 @@
 </picture>
 
 ![gunksd's GitHub stats](https://gunksd-github-readme-stats.vercel.app/api?username=gunksd&show_icons=true&theme=tokyonight&locale=zh-tw)
-![Top Langs](https://gunksd-github-readme-stats.vercel.app/api/top-langs/?username=gunksd&stats_format=bytes&bg_color=00000000)
+![Top Langs](https://gunksd-github-readme-stats.vercel.app/api/top-langs/?username=gunksd&stats_format=bytes&bg_color=00000000&layout=donut)
 
 
 # :chicken: Hello
