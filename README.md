@@ -86,7 +86,8 @@ I'm an aspiring Web3 developer from China, passionate about blockchain technolog
   - Major: Intelligent Science and Technology
 
 ### :computer: My Personal Website
-[https://gunksd.github.io](https://gunksd.github.io/)
+- [https://awansmith.xyz](https://awansmith.xyz)
+- [https://awansmith.cn](https://awansmith.cn)
 
 ### 🔢 Visitor Count
 ![Count](https://count.getloli.com/get/@gunksd?theme=gelbooru)
