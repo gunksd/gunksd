@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" role="img" aria-labelledby="title desc">
+<title id="title">Awan Smith — Curiosity, written in code.</title><desc id="desc">Developer exploring AI, Web3, and open-source ecosystems. Navy background with pink orbital light trails.</desc>
+<defs><linearGradient id="light"><stop stop-color="#f7bad5" stop-opacity="0"/><stop offset=".5" stop-color="#f7bad5" stop-opacity=".65"/><stop offset="1" stop-color="#a7b6fc" stop-opacity=".2"/></linearGradient></defs>
+<rect width="1000" height="340" rx="12" fill="#101223"/>
+<g fill="none" stroke="url(#light)" stroke-width="1.2"><path d="M 510 290 C 650 290, 675 50, 1000 60"/>
+<path d="M 510 294 C 650 284, 675 58, 1000 65"/>
+<path d="M 510 298 C 650 278, 675 66, 1000 70"/>
+<path d="M 510 302 C 650 272, 675 74, 1000 75"/>
+<path d="M 510 306 C 650 266, 675 82, 1000 80"/>
+<path d="M 510 310 C 650 260, 675 90, 1000 85"/>
+<path d="M 510 314 C 650 254, 675 98, 1000 90"/>
+<path d="M 510 318 C 650 248, 675 106, 1000 95"/>
+<path d="M 510 322 C 650 242, 675 114, 1000 100"/>
+<path d="M 510 326 C 650 236, 675 122, 1000 105"/>
+<path d="M 510 330 C 650 230, 675 130, 1000 110"/>
+<path d="M 510 334 C 650 224, 675 138, 1000 115"/>
+<path d="M 510 338 C 650 218, 675 146, 1000 120"/>
+<path d="M 510 342 C 650 212, 675 154, 1000 125"/>
+<path d="M 510 346 C 650 206, 675 162, 1000 130"/>
+<path d="M 510 350 C 650 200, 675 170, 1000 135"/></g>
+<g fill="none" stroke="#a7b6fc" stroke-opacity=".2"><ellipse cx="820" cy="180" rx="210" ry="80" transform="rotate(-20 820 180)"/><ellipse cx="820" cy="180" rx="210" ry="72" transform="rotate(10 820 180)"/></g>
+<g font-family="Arial, sans-serif"><text x="52" y="63" fill="#f7bad5" font-size="17">Hey, I'm Awan Smith.</text><text x="48" y="143" fill="#f2f1f7" font-size="58" font-weight="600">Curiosity,</text><text x="48" y="211" fill="#f2f1f7" font-size="58" font-weight="600">written in <tspan fill="#f7bad5">code.</tspan></text><text x="52" y="278" fill="#bcc0d5" font-size="16">Web3 · Artificial intelligence · Open source</text><text x="52" y="310" fill="#bcc0d5" font-size="12">Based in China. Building and learning in public.</text></g></svg>

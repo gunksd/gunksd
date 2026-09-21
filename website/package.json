@@ -1,0 +1,9 @@
+{
+  "name": "awan-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"dev": "vite --host 127.0.0.1", "build": "vite build", "preview": "vite preview --host 127.0.0.1"},
+  "dependencies": {"react": "^19.1.0", "react-dom": "^19.1.0", "ogl": "^1.0.11", "lucide-react": "^0.468.0"},
+  "devDependencies": {"vite": "^7.0.0", "@vitejs/plugin-react": "^4.7.0"}
+}
