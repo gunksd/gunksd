@@ -18,7 +18,7 @@ Broken remote image walls, repeated headings, invented achievements, and decorat
 ## Design Principles
 - Keep the owner's existing biography and writing as the source of truth.
 - Use a distinctive interactive visual to invite exploration.
-- Keep navigation and article access immediate.
+- Keep navigation and contact access immediate.
 - Let README work independently of the React website.
 
 ## Accessibility & Inclusion

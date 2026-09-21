@@ -3,9 +3,12 @@
 </p>
 
 <p align="center">
+  <img src="assets/typing-quote.svg" width="600" alt="“To thine own self be true.” 愿你不舍昼夜，忠于自己。" />
+</p>
+
+<p align="center">
   <a href="https://github.com/gunksd">GitHub</a> ·
   <a href="https://x.com/wnyn12075574">X / Twitter</a> ·
-  <a href="https://github.com/gunksd/img/blob/main/wechat.jpg?raw=true">WeChat</a> ·
   <a href="https://www.awansmith.cn/">Personal blog</a>
 </p>
 
@@ -17,12 +20,6 @@ An aspiring Web3 developer from China, exploring smart contracts, on-chain ecosy
 **Development** · Python, JavaScript, Vue.js<br/>
 **Research** · Deep learning, neural networks, quantitative trading
 
-### Thinking out loud
-
-- [Analysis of Full-Chain Track Projects and the New Leader Axelar](https://blushing-ptarmigan-80b.notion.site/Analysis-of-Full-Chain-Track-Projects-and-the-New-Leader-Axelar-740845e7864d4928b5a834594cc4ab14?pvs=4)
-- [Comparison of Bitcoin Layer2 Ecological Projects and Rooch's New Ecology](https://blushing-ptarmigan-80b.notion.site/Layer2-Rooch-6647d9f7fd9441239774296f27edf85f?pvs=4)
-- [A Rising Star in the Cross-Chain Track: Polyhedra Network](https://blushing-ptarmigan-80b.notion.site/Polyhedra-Network-96726a8cdc3540dba9f9077819ffd824?pvs=4)
-
 ### What I'm exploring
 
 - [x] Built a machine learning-based quantitative trading system
@@ -31,7 +28,7 @@ An aspiring Web3 developer from China, exploring smart contracts, on-chain ecosy
 
 ### Education
 
-[Jiangsu University](https://www.ujs.edu.cn/) · Since September 2022<br/>
+[Jiangsu University](https://www.ujs.edu.cn/) · September 2022 – July 2026 · Graduated<br/>
 School of Computer Science and Communications Engineering<br/>
 Intelligent Science and Technology
 
@@ -55,8 +52,5 @@ Intelligent Science and Technology
 </details>
 
 ---
-
-> “To thine own self be true.”<br/>
-> 愿你不舍昼夜，忠于自己。
 
 [React portfolio source & local preview instructions](website/README.md) · [Profile maintenance notes](docs/maintenance.md)

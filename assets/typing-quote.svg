@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 110" role="img" aria-labelledby="title desc">
+  <title id="title">“To thine own self be true.” 愿你不舍昼夜，忠于自己。</title>
+  <desc id="desc">English and Chinese lines appear with a repeating typewriter animation. Reduced motion displays both lines immediately.</desc>
+  <style>
+    text { fill: #974b6c; }
+    .english { animation: english 12s steps(27,end) infinite; }
+    .chinese { animation: chinese 12s steps(13,end) infinite; }
+    @keyframes english { 0%,3% { width:0; } 33%,100% { width:460px; } }
+    @keyframes chinese { 0%,37% { width:0; } 70%,100% { width:390px; } }
+    @media (prefers-color-scheme:dark) { text { fill:#f7bad5; } }
+    @media (prefers-reduced-motion:reduce) { .english,.chinese { animation:none; } }
+  </style>
+  <defs>
+    <clipPath id="english"><rect class="english" x="70" y="10" width="460" height="45"/></clipPath>
+    <clipPath id="chinese"><rect class="chinese" x="105" y="60" width="390" height="40"/></clipPath>
+  </defs>
+  <text clip-path="url(#english)" x="70" y="43" font-family="Georgia,serif" font-size="28" textLength="460" lengthAdjust="spacingAndGlyphs">“To thine own self be true.”</text>
+  <text clip-path="url(#chinese)" x="105" y="86" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-size="24" textLength="390" lengthAdjust="spacingAndGlyphs">愿你不舍昼夜，忠于自己。</text>
+</svg>

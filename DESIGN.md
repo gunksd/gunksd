@@ -10,10 +10,10 @@ Preserve the README's navy and pink identity. Website tokens use OKLCH: backgrou
 Manrope with system sans-serif fallback. Headings use weight 500–600 and up to 94px, tracking no tighter than -.04em. Body copy is 16px with generous line height.
 
 ## Layout
-Single-page portfolio: introduction, technology strip, biography, three research articles, current work, contact links. Maximum width 1440px, 6% inline padding; mobile stacks sections and exposes a toggleable navigation.
+Single-page portfolio: introduction, technology strip, biography, a bilingual animated motto, current work, contact links. Maximum width 1440px, 6% inline padding; mobile stacks sections and exposes a toggleable navigation.
 
 ## Motion
-React Bits Threads with mouse interaction. CSS geometric article artwork responds to hover. Disable all continuous animation with the visible Motion control and respect prefers-reduced-motion. Static orbit artwork remains when WebGL is unavailable.
+React Bits Threads with mouse interaction. The bilingual motto types one line at a time in a repeating sequence. Disable all continuous animation with the visible Motion control and respect prefers-reduced-motion. Static orbit artwork remains when WebGL is unavailable.
 
 ## README
-Local SVG cover, semantic Markdown headings, readable technology list, verified research links. Optional detailed metrics are collapsed; failed third-party activity graph and visitor counter are removed.
+Local SVG cover, semantic Markdown headings, readable technology list, a local animated bilingual quote. Optional detailed metrics are collapsed; failed third-party activity graph and visitor counter are removed.

@@ -29,3 +29,7 @@ See [website instructions](../website/README.md) for running the React portfolio
 - Browser: 1440px, 390px, and 320px viewports show no document-level horizontal overflow. Desktop hero, writing section, and mobile biography were visually inspected.
 - Both GitHub Actions YAML files parse, both edited SVGs are valid XML, and `git diff --check` passes.
 - GitHub Actions were inspected read-only; changed workflows have not been pushed or executed remotely.
+
+## Content update
+
+Removed the contact image link and all three article links from the profile and website at the owner's request. Restored the bilingual typewriter quote with a local SVG on GitHub and CSS animation on the website. Education now states September 2022 – July 2026, graduated.
