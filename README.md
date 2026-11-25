@@ -1,38 +1,58 @@
-<p align="center">
-  <img src="assets/profile-header.svg" width="100%" alt="Awan Smith — Curiosity, written in code. Web3, AI, and open-source exploration." />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e68ab8,50:9f86d9,100:7393e0&height=220&section=header&text=Awan%20Smith&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Curiosity%2C%20written%20in%20code%20%E2%9C%A7&descSize=18&descAlignY=58" width="100%" alt="Awan Smith — Curiosity, written in code" />
 
 <p align="center">
   <img src="assets/typing-quote.svg" width="600" alt="“To thine own self be true.” 愿你不舍昼夜，忠于自己。" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/gunksd">GitHub</a> ·
-  <a href="https://x.com/wnyn12075574">X / Twitter</a> ·
-  <a href="https://www.awansmith.cn/">Personal blog</a>
+  <a href="https://github.com/gunksd"><img src="https://img.shields.io/badge/GITHUB-F7C6DC?style=for-the-badge&logo=github&logoColor=5B4A7A" alt="GitHub" /></a>
+  <a href="https://x.com/wnyn12075574"><img src="https://img.shields.io/badge/TWITTER-D4C4F7?style=for-the-badge&logo=x&logoColor=5B4A7A" alt="X / Twitter" /></a>
+  <a href="https://www.awansmith.cn/"><img src="https://img.shields.io/badge/BLOG-B8CDF2?style=for-the-badge&logo=hashnode&logoColor=5B4A7A" alt="Personal blog" /></a>
 </p>
 
-## Hey, I'm Awan 👋
+<h2 align="center">🌸 ~ About me ~ 🌸</h2>
 
-An aspiring Web3 developer from China, exploring smart contracts, on-chain ecosystems, and the intersection of AI with decentralized systems. I learn by building and share what I discover through technical writing.
+<img src="assets/anime-asuna.gif" width="200" align="right" alt="Asuna from Sword Art Online" />
 
-**Blockchain** · Solidity, Move, Ethereum, Sui, Rooch, Axelar<br/>
-**Development** · Python, JavaScript, Vue.js<br/>
-**Research** · Deep learning, neural networks, quantitative trading
+- **Name:** Awan Smith
+- **From:** China
+- **Loves:** Web3, AI, open source, technical writing
+- **Exploring:** smart contracts, on-chain ecosystems, AI × decentralized systems
+- **Research:** deep learning, neural networks, quantitative trading
+- **Education:** [Jiangsu University](https://www.ujs.edu.cn/) · Intelligent Science and Technology · 2022 – 2026 🎓
 
-### What I'm exploring
+<br clear="right" />
 
-- [x] Built a machine learning-based quantitative trading system
-- [ ] Exploring AI + Web3 integration projects
-- [ ] Contributing to open-source blockchain ecosystems
+<h2 align="center">🔮 ~ Knowledge ~ 🔮</h2>
 
-### Education
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,python,js,vue,pytorch,git,linux&perline=8" alt="Solidity, Python, JavaScript, Vue, PyTorch, Git, Linux" />
+</p>
 
-[Jiangsu University](https://www.ujs.edu.cn/) · September 2022 – July 2026 · Graduated<br/>
-School of Computer Science and Communications Engineering<br/>
-Intelligent Science and Technology
+<p align="center">
+  <img src="https://img.shields.io/badge/Ethereum-D4C4F7?style=flat-square&logo=ethereum&logoColor=5B4A7A" alt="Ethereum" />
+  <img src="https://img.shields.io/badge/Move-F7C6DC?style=flat-square" alt="Move" />
+  <img src="https://img.shields.io/badge/Sui-D4C4F7?style=flat-square&logo=sui&logoColor=5B4A7A" alt="Sui" />
+  <img src="https://img.shields.io/badge/Rooch-B8CDF2?style=flat-square" alt="Rooch" />
+  <img src="https://img.shields.io/badge/Axelar-F7C6DC?style=flat-square" alt="Axelar" />
+</p>
 
-### Contribution trail
+<h2 align="center">✨ ~ Current quests ~ ✨</h2>
+
+<img src="assets/anime-frieren.gif" width="320" align="right" alt="Frieren wearing a flower crown" />
+
+- [x] 🎓 Graduated from Jiangsu University (July 2026)
+- [ ] 📈 Building a machine learning-based quantitative trading system (in progress)
+- [ ] 💼 Open to work: Web3 / AI roles, feel free to reach out
+
+<br clear="right" />
+
+<h2 align="center">📊 ~ Stats ~ 📊</h2>
+
+<p align="center">
+  <img src="https://gunksd-github-readme-stats.vercel.app/api?username=gunksd&show_icons=true&hide_border=true&bg_color=00000000&title_color=F7A8C9&icon_color=C9B8FF&text_color=6E6390&disable_animations=true" height="165" alt="Awan's GitHub statistics" />
+  <img src="https://gunksd-github-readme-stats.vercel.app/api/top-langs/?username=gunksd&layout=compact&hide_border=true&bg_color=00000000&title_color=F7A8C9&text_color=6E6390&disable_animations=true" height="165" alt="Most used languages" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gunksd/gunksd/output/github-contribution-grid-snake-dark.svg">
@@ -40,17 +60,14 @@ Intelligent Science and Technology
 </picture>
 
 <details>
-<summary>More GitHub statistics</summary>
-
-<p>
-  <a href="https://github.com/gunksd"><img src="https://gunksd-github-readme-stats.vercel.app/api?username=gunksd&amp;show_icons=true&amp;theme=tokyonight" width="48%" alt="Awan's GitHub statistics" /></a>
-  <a href="https://github.com/gunksd"><img src="https://gunksd-github-readme-stats.vercel.app/api/top-langs/?username=gunksd&amp;theme=tokyonight&amp;layout=compact" width="48%" alt="Most used languages across public repositories" /></a>
-</p>
+<summary>More metrics</summary>
 
 ![GitHub profile metrics](github-metrics.svg)
 
 </details>
 
----
+<h3 align="center">💖 ~ Thanks for reading! ~ 💖</h3>
 
-[React portfolio source & local preview instructions](website/README.md) · [Profile maintenance notes](docs/maintenance.md)
+<p align="center"><sub><a href="website/README.md">React portfolio</a> · <a href="docs/maintenance.md">Maintenance notes</a></sub></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7393e0,50:9f86d9,100:e68ab8&height=120&section=footer" width="100%" alt="" />
