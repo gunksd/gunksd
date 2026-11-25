@@ -68,6 +68,4 @@
 
 <h3 align="center">💖 ~ Thanks for reading! ~ 💖</h3>
 
-<p align="center"><sub><a href="website/README.md">React portfolio</a> · <a href="docs/maintenance.md">Maintenance notes</a></sub></p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7393e0,50:9f86d9,100:e68ab8&height=120&section=footer" width="100%" alt="" />
