@@ -4,16 +4,16 @@
   <style>
     text { fill: #974b6c; }
     .english { animation: english 12s steps(27,end) infinite; }
-    .chinese { animation: chinese 12s steps(13,end) infinite; }
-    @keyframes english { 0%,3% { width:0; } 33%,100% { width:460px; } }
-    @keyframes chinese { 0%,37% { width:0; } 70%,100% { width:390px; } }
+    .chinese { animation: chinese 12s steps(12,end) infinite; }
+    @keyframes english { 0%,3% { width:0; } 33%,100% { width:324px; } }
+    @keyframes chinese { 0%,37% { width:0; } 70%,100% { width:276px; } }
     @media (prefers-color-scheme:dark) { text { fill:#f7bad5; } }
     @media (prefers-reduced-motion:reduce) { .english,.chinese { animation:none; } }
   </style>
   <defs>
-    <clipPath id="english"><rect class="english" x="70" y="10" width="460" height="45"/></clipPath>
-    <clipPath id="chinese"><rect class="chinese" x="105" y="60" width="390" height="40"/></clipPath>
+    <clipPath id="english"><rect class="english" x="138" y="10" width="324" height="45"/></clipPath>
+    <clipPath id="chinese"><rect class="chinese" x="162" y="60" width="276" height="40"/></clipPath>
   </defs>
-  <text clip-path="url(#english)" x="70" y="43" font-family="Georgia,serif" font-size="28" textLength="460" lengthAdjust="spacingAndGlyphs">“To thine own self be true.”</text>
-  <text clip-path="url(#chinese)" x="105" y="86" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-size="24" textLength="390" lengthAdjust="spacingAndGlyphs">愿你不舍昼夜，忠于自己。</text>
+  <text clip-path="url(#english)" x="144" y="43" font-family="Georgia,serif" font-size="26" font-style="italic">“To thine own self be true.”</text>
+  <text clip-path="url(#chinese)" x="162" y="86" font-family="PingFang SC,Microsoft YaHei,sans-serif" font-size="23">愿你不舍昼夜，忠于自己。</text>
 </svg>
